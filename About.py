@@ -12,7 +12,7 @@ st.markdown("""<hr style="height:3px;border:none;color:#FFFF00;background-color:
 cl1, cl2 = st.columns(2)
 
 with cl1:
-    st.image("images/adi.png", width=400)
+    st.image("images/adi.png", width=350)
 
 with cl2:
     st.title("Aditya Vikram Singh")
